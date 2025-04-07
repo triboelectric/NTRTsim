@@ -34,4 +34,5 @@ jobs:
         with:
           check: false
           level: custom
+          timings: true
           user_paths: statick-config
